@@ -57,6 +57,12 @@ rectangle(15, 20, 'grey')
 t.goto(-85, 170)
 rectangle(80, 50, 'red')
 
+#hat
+t.goto(-75, 220)
+rectangle(60, 45, 'black')
+t.goto(-95, 175)
+rectangle(100, 12, 'black')
+
 #eyes
 t.goto(-60, 160)
 rectangle(30, 15, 'white')
